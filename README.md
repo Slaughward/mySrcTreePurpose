@@ -1,0 +1,2 @@
+# mySrcTreePurpose
+demo
